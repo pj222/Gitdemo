@@ -59,4 +59,9 @@ public void demo3()
 {
 	System.out.println("hiiiii");
 }
+@Test
+public void demo7()
+{
+	System.out.println("hiiii");
+}
 }
