@@ -16,6 +16,11 @@ public void demo4(String user,String pwd)
 	System.out.println(user);
 	System.out.println(pwd);
 }
+@Test(groups={"smoke"})
+public void demo4()
+{
+	System.out.println("hey thereeeeeee");
+}
 @DataProvider
 public Object getdata()
 {
