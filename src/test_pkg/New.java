@@ -12,4 +12,9 @@ public class New {
 		int a=10,b=10;
 		Assert.assertEquals(a, b);
 	}
+	@Test
+	public void demo5()
+	{
+		System.out.println("demo5");
+	}
 }
