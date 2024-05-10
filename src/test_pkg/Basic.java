@@ -54,4 +54,9 @@ public void b4test()
 {
 	System.out.println("b4test");
 }
+@Test
+public void demo3()
+{
+	System.out.println("hiiiii");
+}
 }
