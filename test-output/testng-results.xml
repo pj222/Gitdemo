@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-08T16:13:20 CEST" name="Suite" finished-at="2024-04-08T16:13:20 CEST" duration-ms="104">
+    <groups>
+    </groups>
+    <test started-at="2024-04-08T16:13:20 CEST" name="Test" finished-at="2024-04-08T16:13:20 CEST" duration-ms="104">
+      <class name="test_pkg.New">
+        <test-method signature="liseteners_demo()[pri:0, instance:test_pkg.New@5be6e01c]" started-at="2024-04-08T16:13:20 CEST" name="liseteners_demo" finished-at="2024-04-08T16:13:20 CEST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- liseteners_demo -->
+      </class> <!-- test_pkg.New -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
